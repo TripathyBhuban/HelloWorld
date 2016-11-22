@@ -1,2 +1,5 @@
 # HelloWorld
-Just a Beginners Repository
+
+
+
+checking the github...hw it wrks n its really great ..happy me :)
